@@ -8,7 +8,7 @@
 
 
 
-### Sobre mí  
+### About Me  
 - ⚡ Actualmente participo en proyectos donde aplico mis conocimientos en Apex y Vlocity.  
   
 
